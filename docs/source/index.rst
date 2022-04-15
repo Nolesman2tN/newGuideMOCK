@@ -13,6 +13,7 @@ Lumache has its documentation hosted on Read the Docs.
 .. note::
 
    This project is under active development.
+   Lumache has its documentation hosted on Read the Docs.
 
 Contents
 --------
@@ -21,3 +22,4 @@ Lumache has its documentation hosted on Read the Docs.
 
    usage
    api
+Copy this and save 
